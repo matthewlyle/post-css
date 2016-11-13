@@ -1,0 +1,7 @@
+$black: #000;
+
+div {
+	border-top: 5px solid $black;
+	padding-top: 15px;
+	lost-column: 1/3;
+}
